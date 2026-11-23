@@ -1,0 +1,18 @@
+{
+  "id": "1002",
+  "name": "Junior Frontend Developer",
+  "employer": {
+    "id": "88",
+    "name": "Web Studio"
+  },
+  "description": "Build landing pages with React.",
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "CSS"
+    }
+  ],
+  "match_score": 45
+}

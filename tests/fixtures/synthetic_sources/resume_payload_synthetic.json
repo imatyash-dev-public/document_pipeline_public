@@ -1,0 +1,74 @@
+{
+  "full_name": "Alexey Volkov",
+  "headline": "Senior Systems & Data Architect",
+  "contacts": "alexey.volkov@example.org",
+  "summary": "Senior systems and data architect with 12+ years building reliable batch and streaming platforms. Проектирую отказоустойчивые конвейеры данных на Python, SQL, Spark и Airflow.",
+  "experience": [
+    {
+      "company": "Acme Analytics",
+      "position": "Senior Data Engineer",
+      "period": "2020-2024",
+      "bullets": [
+        "Designed and operated batch and streaming data pipelines on Spark and Airflow.",
+        "Built Python ingestion services and tuned SQL workloads for analytics teams.",
+        "Containerized pipeline jobs with Docker and standardized deployment."
+      ]
+    },
+    {
+      "company": "CloudGrid",
+      "position": "Data Platform Architect",
+      "period": "2016-2020",
+      "bullets": [
+        "Architected a multi-tenant data platform with Python and SQL.",
+        "Introduced Airflow orchestration and Spark-based processing."
+      ]
+    }
+  ],
+  "ai_bullets": [
+    "Automated resume tailoring with a deterministic Python toolbelt.",
+    "Added a sanitizer that strips prompt-injection attempts from vacancy text."
+  ],
+  "projects": [
+    {
+      "name": "Streaming Analytics Pipeline",
+      "role": "Lead architect",
+      "stack": "Python, SQL, Spark, Airflow, Docker",
+      "bullets": [
+        "Delivered a Spark and Airflow pipeline processing retail events.",
+        "Packaged services with Docker for reproducible deployments."
+      ]
+    },
+    {
+      "name": "Data Quality Gate",
+      "role": "Architect",
+      "stack": "Python, SQL",
+      "bullets": [
+        "Implemented SQL-based data quality checks and Python alerting."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data engineering",
+      "items": [
+        "Python",
+        "SQL",
+        "Spark",
+        "Airflow"
+      ]
+    },
+    {
+      "category": "Platform",
+      "items": [
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc in Computer Science",
+      "institution": "Synthetic State University",
+      "period": "2008-2014"
+    }
+  ]
+}

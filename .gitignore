@@ -1,0 +1,17 @@
+# Runtime state and generated artifacts (never committed)
+db/
+companies/
+master_data/
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Working plan
+/plan.md

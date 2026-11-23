@@ -1,0 +1,37 @@
+{
+  "id": "1001",
+  "name": "Senior Data Engineer",
+  "alternate_url": "https://example.com/jobs/1001",
+  "employer": {
+    "id": "77",
+    "name": "Acme Analytics"
+  },
+  "description": "Design and operate batch and streaming data pipelines on Spark and Airflow. Strong Python and SQL required.",
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Spark"
+    },
+    {
+      "name": "Airflow"
+    }
+  ],
+  "area": {
+    "name": "Remote"
+  },
+  "experience": {
+    "name": "5+ years"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "match_score": 92
+}

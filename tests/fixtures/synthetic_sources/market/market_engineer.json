@@ -1,0 +1,39 @@
+{
+  "found": 77,
+  "items": [
+    {
+      "name": "Data Engineer",
+      "salary": {
+        "from": 180000,
+        "to": 250000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "name": "Analytics Engineer",
+      "salary": {
+        "from": 200000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "name": "ML Engineer",
+      "salary": {
+        "to": 260000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "name": "BI Developer",
+      "salary": null
+    },
+    {
+      "name": "Staff Engineer",
+      "salary": {
+        "from": 90000,
+        "to": 120000,
+        "currency": "USD"
+      }
+    }
+  ]
+}
